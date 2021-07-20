@@ -1,0 +1,5 @@
+﻿  addPerson.cpp
+  通讯录管理系统.cpp
+  正在生成代码...
+e:\workspace\c++test\c-test\通讯录管理系统\通讯录管理系统\通讯录管理系统.cpp(118): warning C4715: “isExist”: 不是所有的控件路径都返回值
+  通讯录管理系统.vcxproj -> E:\workspace\c++Test\C-Test\通讯录管理系统\Debug\通讯录管理系统.exe
