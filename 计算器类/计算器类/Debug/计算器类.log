@@ -1,0 +1,4 @@
+﻿  计算器类.cpp
+e:\workspace\c++test\c-test\计算器类\计算器类\计算器类.cpp(30): warning C4715: “calculate::getResult”: 不是所有的控件路径都返回值
+  计算器类.vcxproj -> E:\workspace\c++Test\C-Test\计算器类\Debug\计算器类.exe
+  计算器类.vcxproj -> E:\workspace\c++Test\C-Test\计算器类\Debug\计算器类.pdb (Full PDB)
